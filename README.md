@@ -1,5 +1,6 @@
-# ABSTRACT
-## Handwritten Text Recognition (HTR) is a branch of artificial intelligence and computer vision that focuses on automating handwritten text into digital format.
+# Handwriting Analysis
+## ABSTRACT
+- Handwritten Text Recognition (HTR) is a branch of artificial intelligence and computer vision that focuses on automating handwritten text into digital format.
 • HTR plays a crucial role in preserving and digitizing historical documents, manuscripts, and archives containing handwritten text.
 • Handwritten Text Recognition (HTR) can play a role in human personality detection through the analysis of handwriting characteristics, a field known as graphology.
 • Graphology is a method of identifying, evaluating and understanding human personality traits through the strokes and patterns revealed by handwriting.
