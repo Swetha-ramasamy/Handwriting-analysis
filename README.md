@@ -23,11 +23,12 @@ ABSTRACT
 • This innovative approach merges psychology with machine learning, offering a cost- effective and reliable means of personality analysis through handwriting.
 
 INPUT AND OUTPUT:
-![image](https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/5ef0fcbd-7dc8-471c-a479-e96488ff294a)
+<img width="800" alt="image" src="https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/d2c3282d-846d-4fa5-b354-e9a8375700e9">
 Personality Analysis:
-![image](https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/57cae34c-23db-43a9-a9f1-d0a75660e38e)
+<img width="681" alt="image" src="https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/53bb69c2-1ec9-4fa6-8afa-22eb1047088e">
 Image-to-text conversion for the handwriting image:
-![image](https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/4700cd2e-0fb7-4442-988f-33189d6218cb)
+<img width="702" alt="image" src="https://github.com/Swetha-ramasamy/Handwriting-analysis/assets/114848572/6f3fd505-cd1b-485e-b477-3afc5ed2459a">
+
 
 INFERENCE:
 Handwriting analysis offers a fascinating avenue for inferring personality traits using AI. By examining various aspects of handwriting such as size, pressure, slant, and style, it's possible to make educated guesses about an individual's emotional stability, confidence, introversion/extroversion, attention to detail, creativity, stress levels, openness to experience, organizational skills, assertiveness, and social adaptability.
